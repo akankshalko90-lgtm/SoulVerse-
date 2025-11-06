@@ -1,0 +1,5 @@
+{
+  "name": "SoulVerse",
+  "description": "An application that lets users write or paste poems and recite them in a soulful, emotional AI voice.",
+  "requestFramePermissions": []
+}
